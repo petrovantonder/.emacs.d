@@ -8,7 +8,7 @@
 (defvar config-files
   '("packages.el"
     "general.el"
-    "font.el"
+   ;; "font.el"
     "ivy.el"
     "whitespace.el"
     "hideshow.el"
